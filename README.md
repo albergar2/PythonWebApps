@@ -1,3 +1,2 @@
-# Python Web Apps
+# Pricing Alerts App
 
-Simple projects to show how to build web apps using Python
